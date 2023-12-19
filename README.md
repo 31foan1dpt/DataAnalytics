@@ -6,5 +6,6 @@ ToDo: MA2 'warum is dies Sinvoll' --> sauber ausschreiben + 'Dokumentieren Sie j
 ToDo: MA3 Erkenntnisse zusammentragen aus der/den Analysen. WENN ZEIT: Mehr Analysen/Charts einbauen aus neuen Pivot-Tabellen!
 ToDo: (MA4:) Cleaning der Datentypen. Sinnvoll in Umwandlung zu "category"? z.B. Sunset --> Ansonsten String?
 ToDO: MA4: Untersuchen Sie die Korrelationen gesamthaft und graphisch für mindestens 2 Feature-Kombinationen
+ToDO: MA4: Sort Imports
 
 ToDo: Fragen ob wir unseren Use-Case sauber ausdefinieren sollen und in de Doku mitaufnemen sollen
