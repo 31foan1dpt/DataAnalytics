@@ -5,5 +5,15 @@ ToDo: (MA4:) Cleaning der Datentypen. Sinnvoll in Umwandlung zu "category"? z.B.
 ToDO: MA4: Untersuchen Sie die Korrelationen gesamthaft und graphisch für mindestens 2 Feature-Kombinationen
 
 Step-by-step guide:
-in order to have the right data when trying out you need to execute the following files in the correct order:
+Um eine korrekte Funktionsweise zu gewähleisten, müssen diese Dateien zuerst in folgender Reihenfolge ausgeführt werden:
+
+    - Data Understanding and Preparation
+        -Data_Cleaning.ipynb
+        -Mindestanforderung_1.ipynb
+        -Mindestanforderung_2.ipynb
+        -Mindestanforderung_3.ipynb
+        -Mindestanforderung_4.ipynb
+
+Danach können die Dateien aus dem Verzeichniss Modeling und Evaluation in beliebiger Reihenfolge ausgeführt werden
+        
     
