@@ -1,11 +1,18 @@
 # DataAnalytics
 Assignment - Datenanylse Gruppe 1 für den Kurs Data Analytics
 
-ToDo: (MA4:) Cleaning der Datentypen. Sinnvoll in Umwandlung zu "category"? z.B. Sunset --> Ansonsten String?
-ToDO: MA4: Untersuchen Sie die Korrelationen gesamthaft und graphisch für mindestens 2 Feature-Kombinationen
+Der Herausgaber dieses Datensatzes möchte, dass wir folgende Paper Anhängen:
+
+-Moosavi, Sobhan, Mohammad Hossein Samavatian, Srinivasan Parthasarathy, and Rajiv Ramnath. “A Countrywide Traffic Accident Dataset.”, 2019.
+
+-Moosavi, Sobhan, Mohammad Hossein Samavatian, Srinivasan Parthasarathy, Radu Teodorescu, and Rajiv Ramnath. "Accident Risk Prediction based on Heterogeneous Sparse Data: New Dataset and Insights." In proceedings of the 27th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems, ACM, 2019.
 
 Step-by-step guide:
 Um eine korrekte Funktionsweise zu gewähleisten, müssen diese Dateien zuerst in folgender Reihenfolge ausgeführt werden:
+
+    - Im Rootverzeichnis den Ordner "data" erstellen und folgende Dateien reinladen:
+        -Rohdatensatz: https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents
+        -States: https://www.kaggle.com/datasets/omer2040/usa-states-to-region
 
     - Data Understanding and Preparation
         -Data_Cleaning.ipynb
@@ -14,6 +21,6 @@ Um eine korrekte Funktionsweise zu gewähleisten, müssen diese Dateien zuerst i
         -Mindestanforderung_3.ipynb
         -Mindestanforderung_4.ipynb
 
-Danach können die Dateien aus dem Verzeichniss Modeling und Evaluation in beliebiger Reihenfolge ausgeführt werden
+Danach können die Dateien aus dem Verzeichniss Modeling und Interpretation/Evaluation in beliebiger Reihenfolge ausgeführt werden
         
     
